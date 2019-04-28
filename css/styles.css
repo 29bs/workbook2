@@ -101,3 +101,9 @@ header img {
 .feature {
   overflow: hidden;
 }
+
+/* voices */
+
+.voices {
+  background-color: #f8f8f8;
+}
